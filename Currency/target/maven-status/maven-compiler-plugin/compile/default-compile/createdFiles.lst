@@ -1,0 +1,12 @@
+org\bank\controllers\UserController.class
+org\bank\service\TransactionService.class
+org\bank\entity\User.class
+org\bank\dao\GenericDao.class
+org\bank\controllers\TransactionController.class
+org\bank\dao\UserDao.class
+org\bank\dao\TransactionDao.class
+org\bank\entity\Transaction.class
+org\bank\dao\impl\TransactionDaoImpl.class
+org\bank\dao\impl\UserDaoImpl.class
+org\bank\controllers\HomeController.class
+org\bank\service\UserService.class

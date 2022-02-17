@@ -1,0 +1,11 @@
+.currencyChoose {
+    width: 150px;
+}
+
+.fieldsForAmount {
+    width: 200px;
+}
+
+.data {
+    display: flex;
+}
